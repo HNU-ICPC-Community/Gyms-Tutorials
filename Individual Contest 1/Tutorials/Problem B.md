@@ -1,3 +1,5 @@
+## Problem B: After School
+
 ### Explanation
 - We are given a grid of size `n x n`. Each cell at column `j` and row `i` has a value equal to `floor(j/i)`. We need to count how many cells have a specific value `k`.
 

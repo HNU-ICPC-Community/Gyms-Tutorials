@@ -1,3 +1,5 @@
+## Problem E: We need Balloons
+
 ### Explanation
 
 The traditional RGB color system uses three colors (red, green, blue), each with values from 0 to 255, giving a total of `256 * 256 * 256 = 256^3` distinct colors. Rady introduced a new color system where red has values from 0 to `R`, green from 0 to `G`, and blue from 0 to `B`. We need to find the total number of distinct colors Rady's system can produce.

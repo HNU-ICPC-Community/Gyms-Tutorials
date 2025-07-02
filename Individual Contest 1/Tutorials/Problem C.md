@@ -1,3 +1,5 @@
+## Problem C: Balloons Factory (Easy Version)
+
 ### Explanation
 
 Midoriya needs to deliver balloons to `n` teams. Each team `i` solves their problem at time `a_i`. Midoriya can make a delivery run at any time `t`. When he makes a run, he delivers to all teams that have solved their problem by time `t` and haven't been served yet. The constraint is that the waiting time for any team (`t - a_i`) must not exceed `k` minutes. We need to find the minimum number of times Midoriya has to go out to deliver balloons.

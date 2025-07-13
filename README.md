@@ -11,7 +11,7 @@ Welcome to the official repository for HNU-ICPC-Community's Gyms Tutorials! 🎉
 
 Each gym contest typically has its own dedicated folder, containing:
 
-- `Individual Contest X/`:
+- `Gym X/`:
   - `Codes/`:
     - `A.cpp`: C++ solution for Problem A.
     - `B.cpp`: C++ solution for Problem B.
